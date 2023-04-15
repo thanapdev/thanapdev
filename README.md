@@ -29,7 +29,7 @@ I've been the 3rd year's student in Sofware Engineering at CAMT
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/passclouds/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/thanapdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/thana.p_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
-### Badges
+<!-- ### Badges -->
 
 <b>My GitHub Stats</b>
 
