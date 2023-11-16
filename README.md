@@ -1,10 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thanapong Yamkamol
 ==========================================================================================================================================
 
--------------------
-
-I've been the 3rd year's student in Sofware Engineering at CAMT
-
 * 🌍  I'm based in Chaing Mai Thailand
 * 🖥️  See my portfolio at [My Repository](http://github.com/thanapdev?tab=repositories)
 * ✉️  You can contact me at [thanap151255@gmail.com](mailto:thanap151255@gmail.com)
