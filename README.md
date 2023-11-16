@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thanapong Yamkamol
 ==========================================================================================================================================
 
-* 🌍  I'm based in Chaing Mai Thailand
+* 🌍  I'm based in Bangkok Thailand
 * 🖥️  See my portfolio at [My Repository](http://github.com/thanapdev?tab=repositories)
 * ✉️  You can contact me at [thanap151255@gmail.com](mailto:thanap151255@gmail.com)
 * 🧠  I'm learning HTML CSS JS React
