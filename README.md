@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanapdev" alt="thanapdev" /></a> </p>
 
-- 🔭 I’m currently working on [Demo-Store project](https://github.com/thanapdev/project-demo-store)
+- 🔭 I’m currently working on [my practice project](https://github.com/thanapdev?tab=repositories)
 
 - 🌱 I’m currently learning **UX/UI Design world**
 
