@@ -5,7 +5,7 @@
 <div align="center">
 
 # 💫 About Me:
-🔭 I’m currently working on [https://github.com/thanapdev?tab=repositories]<br><br>🌱 I’m currently learning UX/UI Design world<br><br>👨‍💻 All of my projects are available at [https://github.com/thanapdev]<br><br>📫 How to reach me thanap151255@gmail.com<br><br>⚡ Fun fact I'm Hoyoverse's game player
+🔭 I’m currently working on [https://github.com/thanapdev?tab=repositories]<br><br>🌱 I’m currently learning UX/UI Design world<br><br>👨‍💻 All of my projects are available at [https://github.com/thanapdev]<br><br>📫 How to reach me t.yamkamol.work@gmail.com<br><br>⚡ Fun fact I'm Hoyoverse's game player
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30641182) 
